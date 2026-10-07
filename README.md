@@ -1,6 +1,6 @@
 Hi, I'm Subeyda Ibrahim
 
-Informatics junior at IU Indianapolis (Luddy School) with an Applied Data Science minor, graduating May 2027. I build end-to-end analyses that start with messy, multi-source data and end with a finding someone can act on. Most of my work sits at the intersection of SQL, Python, and Power BI, with a focus on public health and operational data.
+Informatics senior at IU Indianapolis (Luddy School) with an Applied Data Science minor, graduating May 2027. I build end-to-end analyses that start with messy, multi-source data and end with a finding someone can act on. Most of my work sits at the intersection of SQL, Python, and Power BI, with a focus on public health and operational data.
 
 I care less about the model and more about the part most people skip: getting the data honest before any analysis runs. Matching identifiers across sources, catching the biases hiding in how data was collected, and making the result legible to someone who does not write code.
 
